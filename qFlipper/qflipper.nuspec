@@ -6,8 +6,9 @@
     <id>qflipper</id>
     <version>1.1.0</version>
     <packageSourceUrl>https://github.com/Poewa/ChocoPackages/tree/master/qFlipper</packageSourceUrl>
-    <owners>Fule</owners>
+    <owners>Poewa</owners>
     <title>qFlipper (Install)</title>
+    <authors>gsurkov</authors>
 
     <projectUrl>https://github.com/flipperdevices/qFlipper</projectUrl>
 
