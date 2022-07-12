@@ -16,8 +16,9 @@
 
     <licenseUrl>https://github.com/flipperdevices/qFlipper/blob/dev/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <projectSourceUrl>https://github.com/flipperdevices/qflipper</ProjectSourceUrl>
+    <projectSourceUrl>https://github.com/flipperdevices/qflipper</projectSourceUrl>
     <docsUrl>https://docs.flipperzero.one/</docsUrl>
+
 
     <tags>qflipper</tags>
     <summary>Graphical desktop application for updating Flipper Zero firmware via PC</summary>
