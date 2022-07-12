@@ -16,15 +16,15 @@
 
     <licenseUrl>https://github.com/flipperdevices/qFlipper/blob/dev/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <projectSourceUrl>https://github.com/flipperdevices/qflipper<projectSourceUrl>
-      <docsUrl>https://docs.flipperzero.one/</docsUrl>
+    <projectSourceUrl>https://github.com/flipperdevices/qflipper</ProjectSourceUrl>
+    <docsUrl>https://docs.flipperzero.one/</docsUrl>
 
-      <tags>qflipper</tags>
-      <summary>Graphical desktop application for updating Flipper Zero firmware via PC</summary>
-      <description>qFlipper is completely open source and based on Qt framework. Runs on Windows, macOS, Linux.</description>
+    <tags>qflipper</tags>
+    <summary>Graphical desktop application for updating Flipper Zero firmware via PC</summary>
+    <description>qFlipper is completely open source and based on Qt framework. Runs on Windows, macOS, Linux.</description>
 
-    </metadata>
-    <files>
-      <file src="tools\**" target="tools" />
-    </files>
-  </package>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
