@@ -2,7 +2,7 @@
 $ErrorActionPreference = 'Stop';
 $toolsDir = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 
-$url64 = 'https://update.flipperzero.one/builds/qFlipper/1.1.0/qFlipperSetup-64bit-1.1.0.exe'
+$url64 = 'https://update.flipperzero.one/builds/qFlipper/1.1.2/qFlipperSetup-64bit-1.1.2.exe'
 
 $packageArgs = @{
   packageName    = $env:ChocolateyPackageName
@@ -11,7 +11,7 @@ $packageArgs = @{
   url64bit       = $url64
   softwareName   = 'qFlipper*'
   checksumType   = 'sha256' 
-  checksum64     = 'A0EF36FDF783C8DDD0322409DA051C6942036C42AF137AF626074ADE3295792F'
+  checksum64     = '580B05593C7CDB0A6CEE724ABBC9F28827A4485B6E2476CB7C84EA74DE46EB57'
   checksumType64 = 'sha256' 
   silentArgs     = '/S'
 }
